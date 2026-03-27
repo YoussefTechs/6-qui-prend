@@ -1,0 +1,793 @@
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 24
+Score de la Manche 2: 
+Joueur 0 : 39
+Joueur 1 : 14
+Score de la Manche 1: 
+Joueur 0 : 9
+Joueur 1 : 15
+Score de la Manche 2: 
+Joueur 0 : 29
+Joueur 1 : 37
+Score de la Manche 1: 
+Joueur 0 : 28
+Joueur 1 : 12
+Score de la Manche 1: 
+Joueur 0 : 27
+Joueur 1 : 19
+Score de la Manche 1: 
+Joueur 0 : 39
+Joueur 1 : 21
+Score de la Manche 1: 
+Joueur 0 : 15
+Joueur 1 : 29
+Score de la Manche 1: 
+Joueur 0 : 5
+Joueur 1 : 25
+Score de la Manche 1: 
+Joueur 0 : 30
+Joueur 1 : 14
+Score de la Manche 2: 
+Joueur 0 : 22
+Joueur 1 : 46
+Score de la Manche 3: 
+Joueur 0 : 61
+Joueur 1 : 61
+Score de la Manche 4: 
+Joueur 0 : 95
+Joueur 1 : 71
+Score de la Manche 1: 
+Joueur 0 : 6
+Joueur 1 : 31
+Score de la Manche 2: 
+Joueur 0 : 16
+Joueur 1 : 57
+Score de la Manche 3: 
+Joueur 0 : 35
+Joueur 1 : 82
+Score de la Manche 1: 
+Joueur 0 : 19
+Joueur 1 : 20
+Score de la Manche 2: 
+Joueur 0 : 52
+Joueur 1 : 32
+Score de la Manche 3: 
+Joueur 0 : 68
+Joueur 1 : 53
+Score de la Manche 4: 
+Joueur 0 : 85
+Joueur 1 : 91
+Score de la Manche 1: 
+Joueur 0 : 35
+Joueur 1 : 17
+Score de la Manche 2: 
+Joueur 0 : 58
+Joueur 1 : 36
+Score de la Manche 3: 
+Joueur 0 : 103
+Joueur 1 : 53
+Score de la Manche 1: 
+Joueur 0 : 25
+Joueur 1 : 16
+Score de la Manche 2: 
+Joueur 0 : 49
+Joueur 1 : 44
+Score de la Manche 3: 
+Joueur 0 : 65
+Joueur 1 : 55
+Score de la Manche 4: 
+Joueur 0 : 90
+Joueur 1 : 71
+Score de la Manche 1: 
+Joueur 0 : 7
+Joueur 1 : 25
+Score de la Manche 2: 
+Joueur 0 : 37
+Joueur 1 : 28
+Score de la Manche 3: 
+Joueur 0 : 45
+Joueur 1 : 55
+Score de la Manche 4: 
+Joueur 0 : 51
+Joueur 1 : 80
+Score de la Manche 1: 
+Joueur 0 : 24
+Joueur 1 : 21
+Score de la Manche 2: 
+Joueur 0 : 53
+Joueur 1 : 47
+Score de la Manche 3: 
+Joueur 0 : 73
+Joueur 1 : 47
+Score de la Manche 4: 
+Joueur 0 : 85
+Joueur 1 : 66
+Score de la Manche 1: 
+Joueur 0 : 68
+Joueur 1 : 21
+Joueur 2 : 45
+Joueur 3 : 8
+Score de la Manche 2: 
+Joueur 0 : 116
+Joueur 1 : 24
+Joueur 2 : 86
+Joueur 3 : 23
+Score de la Manche 1: 
+Joueur 0 : 21
+Joueur 1 : 50
+Joueur 2 : 14
+Joueur 3 : 17
+Score de la Manche 1: 
+Joueur 0 : 18
+Joueur 1 : 45
+Joueur 2 : 19
+Joueur 3 : 16
+Score de la Manche 2: 
+Joueur 0 : 26
+Joueur 1 : 118
+Joueur 2 : 21
+Joueur 3 : 59
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 64
+Joueur 2 : 27
+Joueur 3 : 9
+Score de la Manche 2: 
+Joueur 0 : 53
+Joueur 1 : 75
+Joueur 2 : 96
+Joueur 3 : 10
+Score de la Manche 1: 
+Joueur 0 : 43
+Joueur 1 : 5
+Joueur 2 : 68
+Joueur 3 : 23
+Score de la Manche 2: 
+Joueur 0 : 81
+Joueur 1 : 34
+Joueur 2 : 130
+Joueur 3 : 31
+Score de la Manche 1: 
+Joueur 0 : 12
+Joueur 1 : 14
+Joueur 2 : 73
+Joueur 3 : 50
+Score de la Manche 2: 
+Joueur 0 : 27
+Joueur 1 : 49
+Joueur 2 : 103
+Joueur 3 : 107
+Score de la Manche 1: 
+Joueur 0 : 34
+Joueur 1 : 23
+Joueur 2 : 35
+Joueur 3 : 36
+Score de la Manche 2: 
+Joueur 0 : 73
+Joueur 1 : 65
+Joueur 2 : 53
+Joueur 3 : 65
+Score de la Manche 3: 
+Joueur 0 : 83
+Joueur 1 : 119
+Joueur 2 : 87
+Joueur 3 : 83
+Score de la Manche 1: 
+Joueur 0 : 23
+Joueur 1 : 28
+Joueur 2 : 21
+Joueur 3 : 39
+Score de la Manche 2: 
+Joueur 0 : 60
+Joueur 1 : 68
+Joueur 2 : 63
+Joueur 3 : 44
+Score de la Manche 3: 
+Joueur 0 : 123
+Joueur 1 : 79
+Joueur 2 : 97
+Joueur 3 : 75
+Score de la Manche 1: 
+Joueur 0 : 26
+Joueur 1 : 5
+Joueur 2 : 27
+Joueur 3 : 82
+Score de la Manche 1: 
+Joueur 0 : 32
+Joueur 1 : 5
+Joueur 2 : 49
+Joueur 3 : 24
+Score de la Manche 2: 
+Joueur 0 : 43
+Joueur 1 : 37
+Joueur 2 : 73
+Joueur 3 : 64
+Score de la Manche 1: 
+Joueur 0 : 11
+Joueur 1 : 46
+Joueur 2 : 31
+Joueur 3 : 19
+Score de la Manche 2: 
+Joueur 0 : 25
+Joueur 1 : 101
+Joueur 2 : 37
+Joueur 3 : 62
+Score de la Manche 1: 
+Joueur 0 : 43
+Joueur 1 : 62
+Joueur 2 : 6
+Joueur 3 : 52
+Score de la Manche 1: 
+Joueur 0 : 68
+Joueur 1 : 7
+Joueur 2 : 16
+Joueur 3 : 29
+Score de la Manche 1: 
+Joueur 0 : 44
+Joueur 1 : 14
+Joueur 2 : 40
+Joueur 3 : 23
+Score de la Manche 1: 
+Joueur 0 : 28
+Joueur 1 : 50
+Joueur 2 : 56
+Joueur 3 : 11
+Score de la Manche 2: 
+Joueur 0 : 44
+Joueur 1 : 85
+Joueur 2 : 81
+Joueur 3 : 39
+Score de la Manche 1: 
+Joueur 0 : 67
+Joueur 1 : 5
+Joueur 2 : 3
+Joueur 3 : 45
+Score de la Manche 2: 
+Joueur 0 : 99
+Joueur 1 : 37
+Joueur 2 : 30
+Joueur 3 : 62
+Score de la Manche 1: 
+Joueur 0 : 7
+Joueur 1 : 34
+Joueur 2 : 49
+Joueur 3 : 21
+Score de la Manche 2: 
+Joueur 0 : 17
+Joueur 1 : 51
+Joueur 2 : 91
+Joueur 3 : 79
+Score de la Manche 1: 
+Joueur 0 : 20
+Joueur 1 : 15
+Joueur 2 : 31
+Joueur 3 : 25
+Score de la Manche 2: 
+Joueur 0 : 33
+Joueur 1 : 40
+Joueur 2 : 52
+Joueur 3 : 86
+Score de la Manche 1: 
+Joueur 0 : 2
+Joueur 1 : 41
+Joueur 2 : 43
+Joueur 3 : 25
+Score de la Manche 2: 
+Joueur 0 : 2
+Joueur 1 : 80
+Joueur 2 : 85
+Joueur 3 : 42
+Score de la Manche 1: 
+Joueur 0 : 25
+Joueur 1 : 26
+Joueur 2 : 54
+Joueur 3 : 0
+Score de la Manche 2: 
+Joueur 0 : 65
+Joueur 1 : 67
+Joueur 2 : 87
+Joueur 3 : 8
+Score de la Manche 1: 
+Joueur 0 : 49
+Joueur 1 : 17
+Joueur 2 : 3
+Joueur 3 : 16
+Score de la Manche 2: 
+Joueur 0 : 94
+Joueur 1 : 60
+Joueur 2 : 6
+Joueur 3 : 53
+Score de la Manche 1: 
+Joueur 0 : 26
+Joueur 1 : 54
+Joueur 2 : 30
+Joueur 3 : 9
+Score de la Manche 2: 
+Joueur 0 : 56
+Joueur 1 : 93
+Joueur 2 : 48
+Joueur 3 : 47
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 18
+Score de la Manche 2: 
+Joueur 0 : 53
+Joueur 1 : 51
+Score de la Manche 3: 
+Joueur 0 : 88
+Joueur 1 : 58
+Score de la Manche 1: 
+Joueur 0 : 0
+Joueur 1 : 44
+Score de la Manche 2: 
+Joueur 0 : 27
+Joueur 1 : 46
+Score de la Manche 3: 
+Joueur 0 : 27
+Joueur 1 : 94
+Score de la Manche 1: 
+Joueur 0 : 21
+Joueur 1 : 26
+Score de la Manche 2: 
+Joueur 0 : 34
+Joueur 1 : 52
+Score de la Manche 3: 
+Joueur 0 : 68
+Joueur 1 : 76
+Score de la Manche 4: 
+Joueur 0 : 107
+Joueur 1 : 77
+Score de la Manche 1: 
+Joueur 0 : 62
+Joueur 1 : 0
+Score de la Manche 2: 
+Joueur 0 : 97
+Joueur 1 : 13
+Score de la Manche 1: 
+Joueur 0 : 16
+Joueur 1 : 35
+Score de la Manche 2: 
+Joueur 0 : 19
+Joueur 1 : 57
+Score de la Manche 3: 
+Joueur 0 : 32
+Joueur 1 : 108
+Score de la Manche 1: 
+Joueur 0 : 26
+Joueur 1 : 25
+Score de la Manche 2: 
+Joueur 0 : 35
+Joueur 1 : 62
+Score de la Manche 3: 
+Joueur 0 : 69
+Joueur 1 : 87
+Score de la Manche 1: 
+Joueur 0 : 1
+Joueur 1 : 22
+Score de la Manche 2: 
+Joueur 0 : 4
+Joueur 1 : 46
+Score de la Manche 3: 
+Joueur 0 : 37
+Joueur 1 : 72
+Score de la Manche 4: 
+Joueur 0 : 63
+Joueur 1 : 88
+Score de la Manche 1: 
+Joueur 0 : 13
+Joueur 1 : 39
+Score de la Manche 2: 
+Joueur 0 : 41
+Joueur 1 : 56
+Score de la Manche 3: 
+Joueur 0 : 45
+Joueur 1 : 80
+Score de la Manche 1: 
+Joueur 0 : 24
+Joueur 1 : 15
+Score de la Manche 2: 
+Joueur 0 : 44
+Joueur 1 : 32
+Score de la Manche 3: 
+Joueur 0 : 46
+Joueur 1 : 81
+Score de la Manche 1: 
+Joueur 0 : 59
+Joueur 1 : 0
+Score de la Manche 2: 
+Joueur 0 : 63
+Joueur 1 : 26
+Score de la Manche 3: 
+Joueur 0 : 97
+Joueur 1 : 28
+Score de la Manche 1: 
+Joueur 0 : 30
+Joueur 1 : 23
+Score de la Manche 2: 
+Joueur 0 : 64
+Joueur 1 : 46
+Score de la Manche 3: 
+Joueur 0 : 111
+Joueur 1 : 58
+Score de la Manche 1: 
+Joueur 0 : 62
+Joueur 1 : 0
+Score de la Manche 2: 
+Joueur 0 : 82
+Joueur 1 : 31
+Score de la Manche 1: 
+Joueur 0 : 42
+Joueur 1 : 9
+Score de la Manche 2: 
+Joueur 0 : 79
+Joueur 1 : 10
+Score de la Manche 3: 
+Joueur 0 : 103
+Joueur 1 : 28
+Score de la Manche 1: 
+Joueur 0 : 32
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 65
+Joueur 1 : 19
+Score de la Manche 3: 
+Joueur 0 : 87
+Joueur 1 : 43
+Score de la Manche 1: 
+Joueur 0 : 26
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 48
+Joueur 1 : 44
+Score de la Manche 3: 
+Joueur 0 : 73
+Joueur 1 : 44
+Score de la Manche 4: 
+Joueur 0 : 96
+Joueur 1 : 58
+Score de la Manche 1: 
+Joueur 0 : 39
+Joueur 1 : 28
+Score de la Manche 2: 
+Joueur 0 : 94
+Joueur 1 : 34
+Score de la Manche 1: 
+Joueur 0 : 8
+Joueur 1 : 38
+Score de la Manche 2: 
+Joueur 0 : 34
+Joueur 1 : 61
+Score de la Manche 3: 
+Joueur 0 : 38
+Joueur 1 : 82
+Score de la Manche 1: 
+Joueur 0 : 19
+Joueur 1 : 24
+Score de la Manche 2: 
+Joueur 0 : 29
+Joueur 1 : 56
+Score de la Manche 3: 
+Joueur 0 : 84
+Joueur 1 : 56
+Score de la Manche 1: 
+Joueur 0 : 16
+Joueur 1 : 44
+Score de la Manche 2: 
+Joueur 0 : 47
+Joueur 1 : 69
+Score de la Manche 3: 
+Joueur 0 : 72
+Joueur 1 : 89
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 29
+Score de la Manche 2: 
+Joueur 0 : 80
+Joueur 1 : 29
+Score de la Manche 1: 
+Joueur 0 : 32
+Joueur 1 : 10
+Score de la Manche 2: 
+Joueur 0 : 83
+Joueur 1 : 34
+Score de la Manche 1: 
+Joueur 0 : 20
+Joueur 1 : 32
+Score de la Manche 2: 
+Joueur 0 : 47
+Joueur 1 : 34
+Score de la Manche 3: 
+Joueur 0 : 55
+Joueur 1 : 55
+Score de la Manche 4: 
+Joueur 0 : 91
+Joueur 1 : 102
+Score de la Manche 1: 
+Joueur 0 : 41
+Joueur 1 : 0
+Score de la Manche 2: 
+Joueur 0 : 80
+Joueur 1 : 18
+Score de la Manche 1: 
+Joueur 0 : 23
+Joueur 1 : 35
+Score de la Manche 2: 
+Joueur 0 : 44
+Joueur 1 : 65
+Score de la Manche 3: 
+Joueur 0 : 53
+Joueur 1 : 85
+Score de la Manche 1: 
+Joueur 0 : 17
+Joueur 1 : 20
+Score de la Manche 2: 
+Joueur 0 : 42
+Joueur 1 : 26
+Score de la Manche 3: 
+Joueur 0 : 72
+Joueur 1 : 67
+Score de la Manche 4: 
+Joueur 0 : 99
+Joueur 1 : 93
+Score de la Manche 1: 
+Joueur 0 : 26
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 44
+Joueur 1 : 35
+Score de la Manche 3: 
+Joueur 0 : 79
+Joueur 1 : 39
+Score de la Manche 4: 
+Joueur 0 : 110
+Joueur 1 : 50
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 80
+Joueur 1 : 31
+Score de la Manche 1: 
+Joueur 0 : 13
+Joueur 1 : 35
+Score de la Manche 2: 
+Joueur 0 : 67
+Joueur 1 : 50
+Score de la Manche 3: 
+Joueur 0 : 94
+Joueur 1 : 67
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 20
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 12
+Score de la Manche 2: 
+Joueur 0 : 62
+Joueur 1 : 23
+Score de la Manche 3: 
+Joueur 0 : 89
+Joueur 1 : 47
+Score de la Manche 1: 
+Joueur 0 : 34
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 61
+Joueur 1 : 38
+Score de la Manche 3: 
+Joueur 0 : 88
+Joueur 1 : 69
+Score de la Manche 1: 
+Joueur 0 : 28
+Joueur 1 : 16
+Score de la Manche 1: 
+Joueur 0 : 0
+Joueur 1 : 20
+Score de la Manche 2: 
+Joueur 0 : 5
+Joueur 1 : 61
+Score de la Manche 1: 
+Joueur 0 : 20
+Joueur 1 : 30
+Score de la Manche 2: 
+Joueur 0 : 20
+Joueur 1 : 68
+Score de la Manche 3: 
+Joueur 0 : 55
+Joueur 1 : 70
+Score de la Manche 4: 
+Joueur 0 : 90
+Joueur 1 : 100
+Score de la Manche 1: 
+Joueur 0 : 14
+Joueur 1 : 13
+Score de la Manche 1: 
+Joueur 0 : 13
+Joueur 1 : 8
+Score de la Manche 2: 
+Joueur 0 : 67
+Joueur 1 : 28
+Score de la Manche 3: 
+Joueur 0 : 87
+Joueur 1 : 42
+Score de la Manche 1: 
+Joueur 0 : 34
+Joueur 1 : 0
+Score de la Manche 2: 
+Joueur 0 : 37
+Joueur 1 : 24
+Score de la Manche 3: 
+Joueur 0 : 64
+Joueur 1 : 29
+Score de la Manche 1: 
+Joueur 0 : 19
+Joueur 1 : 31
+Score de la Manche 1: 
+Joueur 0 : 15
+Joueur 1 : 18
+Score de la Manche 1: 
+Joueur 0 : 32
+Joueur 1 : 17
+Score de la Manche 1: 
+Joueur 0 : 29
+Joueur 1 : 20
+Score de la Manche 1: 
+Joueur 0 : 18
+Joueur 1 : 33
+Score de la Manche 1: 
+Joueur 0 : 16
+Joueur 1 : 23
+Score de la Manche 2: 
+Joueur 0 : 47
+Joueur 1 : 56
+Score de la Manche 1: 
+Joueur 0 : 8
+Joueur 1 : 39
+Score de la Manche 2: 
+Joueur 0 : 31
+Joueur 1 : 57
+Score de la Manche 3: 
+Joueur 0 : 60
+Joueur 1 : 87
+Score de la Manche 1: 
+Joueur 0 : 25
+Joueur 1 : 31
+Score de la Manche 2: 
+Joueur 0 : 52
+Joueur 1 : 60
+Score de la Manche 1: 
+Joueur 0 : 18
+Joueur 1 : 34
+Score de la Manche 2: 
+Joueur 0 : 37
+Joueur 1 : 56
+Score de la Manche 3: 
+Joueur 0 : 57
+Joueur 1 : 77
+Score de la Manche 1: 
+Joueur 0 : 8
+Joueur 1 : 55
+Score de la Manche 2: 
+Joueur 0 : 22
+Joueur 1 : 78
+Score de la Manche 1: 
+Joueur 0 : 3
+Joueur 1 : 28
+Score de la Manche 1: 
+Joueur 0 : 15
+Joueur 1 : 34
+Joueur 2 : 41
+Score de la Manche 2: 
+Joueur 0 : 27
+Joueur 1 : 35
+Joueur 2 : 101
+Score de la Manche 1: 
+Joueur 0 : 23
+Joueur 1 : 43
+Joueur 2 : 15
+Score de la Manche 2: 
+Joueur 0 : 46
+Joueur 1 : 113
+Joueur 2 : 19
+Score de la Manche 1: 
+Joueur 0 : 3
+Joueur 1 : 23
+Score de la Manche 2: 
+Joueur 0 : 11
+Joueur 1 : 53
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 43
+Score de la Manche 2: 
+Joueur 0 : 61
+Joueur 1 : 66
+Score de la Manche 1: 
+Joueur 0 : 23
+Joueur 1 : 12
+Score de la Manche 2: 
+Joueur 0 : 66
+Joueur 1 : 13
+Score de la Manche 1: 
+Joueur 0 : 40
+Joueur 1 : 18
+Score de la Manche 2: 
+Joueur 0 : 57
+Joueur 1 : 43
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 23
+Score de la Manche 2: 
+Joueur 0 : 25
+Joueur 1 : 45
+Score de la Manche 1: 
+Joueur 0 : 24
+Joueur 1 : 55
+Score de la Manche 2: 
+Joueur 0 : 41
+Joueur 1 : 66
+Score de la Manche 1: 
+Joueur 0 : 9
+Joueur 1 : 56
+Score de la Manche 2: 
+Joueur 0 : 17
+Joueur 1 : 99
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 44
+Score de la Manche 2: 
+Joueur 0 : 34
+Joueur 1 : 78
+Score de la Manche 1: 
+Joueur 0 : 6
+Joueur 1 : 29
+Score de la Manche 2: 
+Joueur 0 : 46
+Joueur 1 : 39
+Score de la Manche 1: 
+Joueur 0 : 43
+Joueur 1 : 19
+Score de la Manche 2: 
+Joueur 0 : 58
+Joueur 1 : 33
+Score de la Manche 1: 
+Joueur 0 : 27
+Joueur 1 : 13
+Score de la Manche 2: 
+Joueur 0 : 41
+Joueur 1 : 48
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 15
+Score de la Manche 2: 
+Joueur 0 : 42
+Joueur 1 : 52
+Score de la Manche 1: 
+Joueur 0 : 0
+Joueur 1 : 27
+Score de la Manche 2: 
+Joueur 0 : 2
+Joueur 1 : 47
+Score de la Manche 1: 
+Joueur 0 : 13
+Joueur 1 : 0
+Joueur 2 : 42
+Score de la Manche 2: 
+Joueur 0 : 26
+Joueur 1 : 32
+Joueur 2 : 74
+Score de la Manche 1: 
+Joueur 0 : 31
+Joueur 1 : 8
+Score de la Manche 1: 
+Joueur 0 : 10
+Joueur 1 : 13
+Score de la Manche 2: 
+Joueur 0 : 38
+Joueur 1 : 32
+Score de la Manche 1: 
+Joueur 0 : 11
+Joueur 1 : 15
+Score de la Manche 2: 
+Joueur 0 : 30
+Joueur 1 : 36
